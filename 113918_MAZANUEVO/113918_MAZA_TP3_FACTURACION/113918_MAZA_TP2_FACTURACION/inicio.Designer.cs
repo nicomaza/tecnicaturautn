@@ -43,7 +43,7 @@
             this.archivoToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(684, 28);
+            this.menuStrip1.Size = new System.Drawing.Size(1125, 30);
             this.menuStrip1.TabIndex = 1;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -74,17 +74,18 @@
             // 
             this.reportViewer1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.reportViewer1.LocalReport.ReportEmbeddedResource = "_113918_MAZA_TP2_FACTURACION.reportes.Report1.rdlc";
-            this.reportViewer1.Location = new System.Drawing.Point(0, 28);
+            this.reportViewer1.Location = new System.Drawing.Point(0, 30);
             this.reportViewer1.Name = "reportViewer1";
             this.reportViewer1.ServerReport.BearerToken = null;
-            this.reportViewer1.Size = new System.Drawing.Size(684, 287);
+            this.reportViewer1.Size = new System.Drawing.Size(1125, 513);
             this.reportViewer1.TabIndex = 2;
             // 
             // inicio
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(684, 315);
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
+            this.ClientSize = new System.Drawing.Size(1125, 543);
             this.Controls.Add(this.reportViewer1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;

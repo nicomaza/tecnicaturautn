@@ -207,3 +207,4 @@ C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_T
 C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.CopyComplete
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.reportecliente.resources

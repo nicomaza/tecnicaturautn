@@ -80,5 +80,12 @@ namespace _113918_MAZA_TP2_FACTURACION
 
             }
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            reportecliente reportecliente = new reportecliente();
+            reportecliente.ShowDialog();
+            reportecliente.Dispose();
+        }
     }
 }

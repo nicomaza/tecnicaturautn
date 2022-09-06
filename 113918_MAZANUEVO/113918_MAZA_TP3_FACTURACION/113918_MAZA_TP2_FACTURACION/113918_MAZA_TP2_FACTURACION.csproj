@@ -94,6 +94,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reportecliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportecliente.Designer.cs">
+      <DependentUpon>reportecliente.cs</DependentUpon>
+    </Compile>
     <Compile Include="reportes\DataSet1.cs">
       <DependentUpon>DataSet1.xsd</DependentUpon>
     </Compile>
@@ -121,7 +127,11 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="reportecliente.resx">
+      <DependentUpon>reportecliente.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="reportes\Report1.rdlc" />
+    <EmbeddedResource Include="reportes\reporteagrupado.rdlc" />
     <None Include="FACTURACIONTPDataSet.xsc">
       <DependentUpon>FACTURACIONTPDataSet.xsd</DependentUpon>
     </None>

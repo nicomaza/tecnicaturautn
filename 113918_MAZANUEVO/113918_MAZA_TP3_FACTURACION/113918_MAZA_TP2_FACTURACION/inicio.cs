@@ -46,7 +46,7 @@ namespace _113918_MAZA_TP2_FACTURACION
             ////reportViewer1.LocalReport.DataSources.Clear();
             ////reportViewer1.LocalReport.DataSources.Add(new ReportDataSource("informedt"));
             //this.reportViewer1.RefreshReport();
-            this.reportViewer1.RefreshReport();
+           // this.reportViewer1.RefreshReport();
         }
 
         private void nuevoToolStripMenuItem_Click(object sender, EventArgs e)

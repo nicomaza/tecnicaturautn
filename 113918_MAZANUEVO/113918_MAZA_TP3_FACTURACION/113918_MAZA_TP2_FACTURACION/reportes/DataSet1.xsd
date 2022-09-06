@@ -3,23 +3,68 @@
   <xs:annotation>
     <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
       <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
-        <Connections />
-        <Tables />
+        <Connections>
+          <Connection AppSettingsObjectName="Settings" AppSettingsPropertyName="detallestring" ConnectionStringObject="" IsAppSettingsProperty="true" Modifier="Assembly" Name="detallestring (Settings)" ParameterPrefix="@" PropertyReference="ApplicationSettings._113918_MAZA_TP2_FACTURACION.Properties.Settings.GlobalReference.Default.detallestring" Provider="System.Data.SqlClient" />
+        </Connections>
+        <Tables>
+          <TableAdapter BaseClass="System.ComponentModel.Component" DataAccessorModifier="AutoLayout, AnsiClass, Class, Public" DataAccessorName="agrupadoTableAdapter" GeneratorDataComponentClassName="agrupadoTableAdapter" Name="agrupado" UserDataComponentName="agrupadoTableAdapter">
+            <MainSource>
+              <DbSource ConnectionRef="detallestring (Settings)" DbObjectName="FACTURACIONTP.dbo.FACTURA" DbObjectType="Table" FillMethodModifier="Public" FillMethodName="Fill" GenerateMethods="Both" GenerateShortCommands="false" GeneratorGetMethodName="GetData" GeneratorSourceName="Fill" GetMethodModifier="Public" GetMethodName="GetData" QueryType="Rowset" ScalarCallRetval="System.Object, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" UseOptimisticConcurrency="false" UserGetMethodName="GetData" UserSourceName="Fill">
+                <SelectCommand>
+                  <DbCommand CommandType="Text" ModifiedByUser="true">
+                    <CommandText>select f.CLIENTE 'cliente', 
+max(a.PRECIO_UNITARIO*cantidad)'maximo', 
+min(a.PRECIO_UNITARIO*cantidad) 'minimo',
+sum(a.PRECIO_UNITARIO*cantidad) 'totalfacturado'
+from factura f join DETALLE_FACTURA d on f.NRO_FACTURA = d.NRO_FACTURA 
+join ARTICULOS a on a.ID_ARTICULO = d.ID_ARTICULO
+group by f.CLIENTE
+</CommandText>
+                    <Parameters />
+                  </DbCommand>
+                </SelectCommand>
+              </DbSource>
+            </MainSource>
+            <Mappings>
+              <Mapping SourceColumn="maximo" DataSetColumn="maximo" />
+              <Mapping SourceColumn="minimo" DataSetColumn="minimo" />
+              <Mapping SourceColumn="totalfacturado" DataSetColumn="totalfacturado" />
+              <Mapping SourceColumn="cliente" DataSetColumn="cliente" />
+            </Mappings>
+            <Sources />
+          </TableAdapter>
+        </Tables>
         <Sources />
       </DataSource>
     </xs:appinfo>
   </xs:annotation>
-  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSet1">
     <xs:complexType>
       <xs:choice minOccurs="0" maxOccurs="unbounded">
-        <xs:element name="DataTable1" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_UserTableName="DataTable1">
+        <xs:element name="DataTable1" msprop:Generator_RowClassName="DataTable1Row" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1">
           <xs:complexType>
             <xs:sequence>
-              <xs:element name="NRO_FACTURA" msprop:Generator_ColumnPropNameInRow="NRO_FACTURA" msprop:Generator_ColumnPropNameInTable="NRO_FACTURAColumn" msprop:Generator_ColumnVarNameInTable="columnNRO_FACTURA" msprop:Generator_UserColumnName="NRO_FACTURA" type="xs:string" minOccurs="0" />
-              <xs:element name="CLIENTE" msprop:Generator_ColumnPropNameInRow="CLIENTE" msprop:Generator_ColumnPropNameInTable="CLIENTEColumn" msprop:Generator_ColumnVarNameInTable="columnCLIENTE" msprop:Generator_UserColumnName="CLIENTE" type="xs:string" minOccurs="0" />
-              <xs:element name="NOMBRE" msprop:Generator_ColumnPropNameInRow="NOMBRE" msprop:Generator_ColumnPropNameInTable="NOMBREColumn" msprop:Generator_ColumnVarNameInTable="columnNOMBRE" msprop:Generator_UserColumnName="NOMBRE" type="xs:string" minOccurs="0" />
-              <xs:element name="PRECIO_UNITARIO" msprop:Generator_ColumnPropNameInRow="PRECIO_UNITARIO" msprop:Generator_ColumnPropNameInTable="PRECIO_UNITARIOColumn" msprop:Generator_ColumnVarNameInTable="columnPRECIO_UNITARIO" msprop:Generator_UserColumnName="PRECIO_UNITARIO" type="xs:string" minOccurs="0" />
-              <xs:element name="CANTIDAD" msprop:Generator_ColumnPropNameInRow="CANTIDAD" msprop:Generator_ColumnPropNameInTable="CANTIDADColumn" msprop:Generator_ColumnVarNameInTable="columnCANTIDAD" msprop:Generator_UserColumnName="CANTIDAD" type="xs:string" minOccurs="0" />
+              <xs:element name="NRO_FACTURA" msprop:Generator_UserColumnName="NRO_FACTURA" msprop:Generator_ColumnPropNameInTable="NRO_FACTURAColumn" msprop:Generator_ColumnPropNameInRow="NRO_FACTURA" msprop:Generator_ColumnVarNameInTable="columnNRO_FACTURA" type="xs:string" minOccurs="0" />
+              <xs:element name="CLIENTE" msprop:Generator_UserColumnName="CLIENTE" msprop:Generator_ColumnPropNameInTable="CLIENTEColumn" msprop:Generator_ColumnPropNameInRow="CLIENTE" msprop:Generator_ColumnVarNameInTable="columnCLIENTE" type="xs:string" minOccurs="0" />
+              <xs:element name="NOMBRE" msprop:Generator_UserColumnName="NOMBRE" msprop:Generator_ColumnPropNameInTable="NOMBREColumn" msprop:Generator_ColumnPropNameInRow="NOMBRE" msprop:Generator_ColumnVarNameInTable="columnNOMBRE" type="xs:string" minOccurs="0" />
+              <xs:element name="PRECIO_UNITARIO" msprop:Generator_UserColumnName="PRECIO_UNITARIO" msprop:Generator_ColumnPropNameInTable="PRECIO_UNITARIOColumn" msprop:Generator_ColumnPropNameInRow="PRECIO_UNITARIO" msprop:Generator_ColumnVarNameInTable="columnPRECIO_UNITARIO" type="xs:string" minOccurs="0" />
+              <xs:element name="CANTIDAD" msprop:Generator_UserColumnName="CANTIDAD" msprop:Generator_ColumnPropNameInTable="CANTIDADColumn" msprop:Generator_ColumnPropNameInRow="CANTIDAD" msprop:Generator_ColumnVarNameInTable="columnCANTIDAD" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="agrupado" msprop:Generator_RowEvHandlerName="agrupadoRowChangeEventHandler" msprop:Generator_RowDeletedName="agrupadoRowDeleted" msprop:Generator_RowDeletingName="agrupadoRowDeleting" msprop:Generator_RowEvArgName="agrupadoRowChangeEvent" msprop:Generator_TablePropName="agrupado" msprop:Generator_RowChangedName="agrupadoRowChanged" msprop:Generator_RowChangingName="agrupadoRowChanging" msprop:Generator_TableClassName="agrupadoDataTable" msprop:Generator_RowClassName="agrupadoRow" msprop:Generator_TableVarName="tableagrupado" msprop:Generator_UserTableName="agrupado">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="maximo" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="maximo" msprop:Generator_ColumnPropNameInTable="maximoColumn" msprop:Generator_ColumnVarNameInTable="columnmaximo" msprop:Generator_UserColumnName="maximo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="minimo" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="minimo" msprop:Generator_ColumnPropNameInTable="minimoColumn" msprop:Generator_ColumnVarNameInTable="columnminimo" msprop:Generator_UserColumnName="minimo" type="xs:decimal" minOccurs="0" />
+              <xs:element name="totalfacturado" msdata:ReadOnly="true" msprop:Generator_ColumnPropNameInRow="totalfacturado" msprop:Generator_ColumnPropNameInTable="totalfacturadoColumn" msprop:Generator_ColumnVarNameInTable="columntotalfacturado" msprop:Generator_UserColumnName="totalfacturado" type="xs:decimal" minOccurs="0" />
+              <xs:element name="cliente" msprop:Generator_ColumnPropNameInRow="cliente" msprop:Generator_ColumnPropNameInTable="clienteColumn" msprop:Generator_ColumnVarNameInTable="columncliente" msprop:Generator_UserColumnName="cliente" minOccurs="0">
+                <xs:simpleType>
+                  <xs:restriction base="xs:string">
+                    <xs:maxLength value="100" />
+                  </xs:restriction>
+                </xs:simpleType>
+              </xs:element>
             </xs:sequence>
           </xs:complexType>
         </xs:element>

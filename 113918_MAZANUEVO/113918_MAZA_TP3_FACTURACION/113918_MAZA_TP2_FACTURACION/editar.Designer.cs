@@ -38,6 +38,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.radioButton1 = new System.Windows.Forms.RadioButton();
             this.radioButton2 = new System.Windows.Forms.RadioButton();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fACTURACIONTPDataSet)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.fACTURACIONTPDataSetBindingSource)).BeginInit();
@@ -85,7 +86,7 @@
             // lblactual
             // 
             this.lblactual.AutoSize = true;
-            this.lblactual.Location = new System.Drawing.Point(32, 25);
+            this.lblactual.Location = new System.Drawing.Point(32, 24);
             this.lblactual.Name = "lblactual";
             this.lblactual.Size = new System.Drawing.Size(59, 16);
             this.lblactual.TabIndex = 5;
@@ -102,7 +103,7 @@
             // radioButton1
             // 
             this.radioButton1.AutoSize = true;
-            this.radioButton1.Location = new System.Drawing.Point(683, 178);
+            this.radioButton1.Location = new System.Drawing.Point(683, 223);
             this.radioButton1.Name = "radioButton1";
             this.radioButton1.Size = new System.Drawing.Size(181, 20);
             this.radioButton1.TabIndex = 7;
@@ -114,7 +115,7 @@
             // radioButton2
             // 
             this.radioButton2.AutoSize = true;
-            this.radioButton2.Location = new System.Drawing.Point(683, 214);
+            this.radioButton2.Location = new System.Drawing.Point(683, 259);
             this.radioButton2.Name = "radioButton2";
             this.radioButton2.Size = new System.Drawing.Size(211, 20);
             this.radioButton2.TabIndex = 8;
@@ -123,11 +124,22 @@
             this.radioButton2.UseVisualStyleBackColor = true;
             this.radioButton2.CheckedChanged += new System.EventHandler(this.radioButton2_CheckedChanged);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(683, 399);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(135, 39);
+            this.button1.TabIndex = 9;
+            this.button1.Text = "REPORTE ";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // editar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(921, 450);
+            this.ClientSize = new System.Drawing.Size(931, 457);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.radioButton2);
             this.Controls.Add(this.radioButton1);
             this.Controls.Add(this.label3);
@@ -157,5 +169,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.RadioButton radioButton1;
         private System.Windows.Forms.RadioButton radioButton2;
+        private System.Windows.Forms.Button button1;
     }
 }
