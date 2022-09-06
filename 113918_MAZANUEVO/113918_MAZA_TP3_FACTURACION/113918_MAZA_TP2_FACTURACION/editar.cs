@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
@@ -20,7 +21,7 @@ namespace _113918_MAZA_TP2_FACTURACION
 
         private void editar_Load(object sender, EventArgs e)
         {
-            cargargrilla();
+            dataGridView1.DataSource = obd.consultasp("consulta_factivas");
         }
         private void cargargrilla()
         {
@@ -42,6 +43,42 @@ namespace _113918_MAZA_TP2_FACTURACION
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void chanulada_CheckedChanged(object sender, EventArgs e)
+        {
+
+
+        }
+
+        private void radioButton1_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton1.Checked == true)
+            {
+                cargargrilla();
+                lblactual.Text = "TODAS LAS FACTURAS (INCLUYE ANULADAS)";
+            }
+        }
+
+        private void radioButton2_CheckedChanged(object sender, EventArgs e)
+        {
+            if (radioButton2.Checked == true)
+            {
+
+                dataGridView1.DataSource = obd.consultasp("consulta_fanuladas");
+                lblactual.Text = "FACTURAS ANULADAS";
+            }
+            if (radioButton2.Checked == false)
+            {
+                lblactual.Text = "FACTURAS";
+
+
+            }
         }
     }
 }
