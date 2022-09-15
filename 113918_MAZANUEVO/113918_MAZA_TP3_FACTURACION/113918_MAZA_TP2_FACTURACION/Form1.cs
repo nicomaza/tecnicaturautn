@@ -1,4 +1,6 @@
-﻿using System;
+﻿using _113918_MAZA_TP2_FACTURACION.Datos;
+using _113918_MAZA_TP2_FACTURACION.Datos.Implementaciones;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -56,8 +58,11 @@ namespace _113918_MAZA_TP2_FACTURACION
 
         private void cargarcbofpago()
         {
+            HelperDAO odao = HelperDAO.obtenerinstancia();
+            //odao.GetFacturaDataTable("formas de pago");
             DataTable dt = new DataTable();
-            dt = obd.consultasp("formas_pago");
+            //dt = obd.consultasp("formas_pago");
+            dt = odao.consultasp("formas_pago");
             cboformapago.DataSource = dt;
             cboformapago.ValueMember = dt.Columns[0].ColumnName;
             cboformapago.DisplayMember = dt.Columns[1].ColumnName;

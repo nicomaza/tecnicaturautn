@@ -66,6 +66,9 @@
   <ItemGroup>
     <Compile Include="Articulo.cs" />
     <Compile Include="ConexionBD.cs" />
+    <Compile Include="Datos\HelperDAO.cs" />
+    <Compile Include="Datos\Implementaciones\FacturaDAO.cs" />
+    <Compile Include="Datos\Interfaces\IFacturaDAO.cs" />
     <Compile Include="DetalleFactura.cs" />
     <Compile Include="editar.cs">
       <SubType>Form</SubType>
@@ -182,6 +185,10 @@
     <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Servicios\Implementacion\" />
+    <Folder Include="Servicios\Interfaces\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
