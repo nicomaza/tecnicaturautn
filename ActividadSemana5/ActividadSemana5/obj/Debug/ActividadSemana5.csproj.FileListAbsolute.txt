@@ -1,0 +1,11 @@
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\bin\Debug\ActividadSemana5.exe.config
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\bin\Debug\ActividadSemana5.exe
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\bin\Debug\ActividadSemana5.pdb
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\obj\Debug\ActividadSemana5.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\obj\Debug\ActividadSemana5.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\obj\Debug\ActividadSemana5.Form1.resources
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\obj\Debug\ActividadSemana5.Properties.Resources.resources
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\obj\Debug\ActividadSemana5.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\obj\Debug\ActividadSemana5.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\obj\Debug\ActividadSemana5.exe
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\ActividadSemana5\ActividadSemana5\obj\Debug\ActividadSemana5.pdb

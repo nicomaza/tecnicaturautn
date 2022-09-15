@@ -9,24 +9,46 @@ namespace ActividadSemana5
 {
     internal class Cola : ICollection
     {
-        public bool añadir()
+
+        List<object> lCola = new List<object>();
+        public bool añadir(int numero)
         {
-            throw new NotImplementedException();
+            lCola.Add(numero);
+            return true;
         }
 
         public bool estaVacia()
         {
-            throw new NotImplementedException();
+            {
+                for (int i = 0; i < lCola.Count; i++)
+                {
+                    if (lCola[i] == null)
+                        return true;
+                }
+                return false;
+            }
         }
 
-        public void extraer()
+        public object extraer(int ultimo)
         {
-            throw new NotImplementedException();
+            object ultimaCola = null;
+            for (int i = 0; i < lCola.Count; i++)
+            {
+                ultimaCola = lCola[ultimo];
+                lCola[ultimo] = null;
+            }
+            return ultimaCola;
         }
 
         public object primero()
         {
-            throw new NotImplementedException();
+          
+            object Primero = null;
+            for (int i = 0; i < lCola.Count; i++)
+            {
+                Primero = lCola[i];
+            }
+            return Primero;
         }
     }
 }
