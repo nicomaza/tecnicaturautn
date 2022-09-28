@@ -9,3 +9,14 @@ C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\Parcialmodelo\ParcialRece
 C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\Parcialmodelo\ParcialRecetas\ParcialRecetas\bin\Debug\ParcialRecetas.pdb
 C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\Parcialmodelo\ParcialRecetas\ParcialRecetas\obj\Debug\ParcialRecetas.exe
 C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\Parcialmodelo\ParcialRecetas\ParcialRecetas\obj\Debug\ParcialRecetas.pdb
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\bin\Debug\ParcialRecetas.exe.config
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\bin\Debug\ParcialRecetas.exe
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\bin\Debug\ParcialRecetas.pdb
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\obj\Debug\ParcialRecetas.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\obj\Debug\ParcialRecetas.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\obj\Debug\ParcialRecetas.Form1.resources
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\obj\Debug\ParcialRecetas.Properties.Resources.resources
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\obj\Debug\ParcialRecetas.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\obj\Debug\ParcialRecetas.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\obj\Debug\ParcialRecetas.exe
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\RecetasMaza\Parcialmodelo\ParcialRecetas\ParcialRecetas\obj\Debug\ParcialRecetas.pdb

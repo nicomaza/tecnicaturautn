@@ -93,7 +93,7 @@ namespace ParcialRecetas
             {
                 foreach (DataGridViewRow row in dataGridView1.Rows)
                 {
-                    if (row.Cells[1].Value.ToString().Equals(cboingredientes.Text))
+                    if (row.Cells["colingredientes"].Value != null && row.Cells["colingredientes"].Value.ToString().Equals(cboingredientes.Text))
                     {
                         MessageBox.Show("Ingrediente ya cargado");
                         return;

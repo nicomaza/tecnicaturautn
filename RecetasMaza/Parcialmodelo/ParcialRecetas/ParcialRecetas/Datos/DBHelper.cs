@@ -68,13 +68,13 @@ namespace ParcialRecetas.Datos
                 cnn.ConnectionString = Properties.Resources.ConexionString;
                 cnn.Open();
                 cmd1.Connection = cnn;
-                t = cnn.BeginTransaction();
-                cmd1.Transaction = t;
-                cmd1.CommandType = CommandType.StoredProcedure;
+            t = cnn.BeginTransaction();
+            cmd1.Transaction = t;
+            cmd1.CommandType = CommandType.StoredProcedure;
                 cmd1.CommandText = "SP_INSERTAR_RECETA";
                 cmd1.Parameters.Clear();
                 cmd1.Parameters.AddWithValue("@nombre", oReceta.Nombre);
-                cmd1.Parameters.AddWithValue("id_chef", oReceta.Cheff);
+                cmd1.Parameters.AddWithValue("@id_cheff", oReceta.Cheff);
                 cmd1.Parameters.AddWithValue("@id_tipo_receta", oReceta.TipoReceta);
 
 
@@ -92,7 +92,7 @@ namespace ParcialRecetas.Datos
 
                 for (int i = 0; i < oReceta.Detalles.Count; i++)
                 {
-                    cmd2 = new SqlCommand("SP_INSERTAR_DETALLES", cnn, t);
+                    cmd2 = new SqlCommand("SP_INSERTAR_DETALLES", cnn,t);
                     cmd2.CommandType = CommandType.StoredProcedure;
 
                     cmd2.Parameters.AddWithValue("@detalle_nro", count);
@@ -103,12 +103,13 @@ namespace ParcialRecetas.Datos
                     cmd2.ExecuteNonQuery();
                     count++;
                 }
-                t.Commit();
-                cnn.Close();
+            t.Commit();
+            cnn.Close();
                 return true;
-            }
-            catch (Exception)
+        }
+            catch (SqlException)
             {
+                
                 if (t != null)
                     t.Rollback();
                 cnn.Close();
@@ -118,7 +119,7 @@ namespace ParcialRecetas.Datos
 
 
 
-        }
+}
         public int SPconParametroSalida(string SP, string Parametro)
         {
             SqlParameter pOut = new SqlParameter();

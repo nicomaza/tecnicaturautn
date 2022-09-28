@@ -41,11 +41,11 @@
             this.cbocheff = new System.Windows.Forms.ComboBox();
             this.lblnumero = new System.Windows.Forms.Label();
             this.lbltotal = new System.Windows.Forms.Label();
-            this.IDING = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clmIngrediente = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.clmCantidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.txtcantidad = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.IDING = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.colingredientes = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.clmCantidad = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -131,10 +131,11 @@
             // 
             // dataGridView1
             // 
+            this.dataGridView1.AllowUserToAddRows = false;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.IDING,
-            this.clmIngrediente,
+            this.colingredientes,
             this.clmCantidad});
             this.dataGridView1.Location = new System.Drawing.Point(27, 252);
             this.dataGridView1.Name = "dataGridView1";
@@ -169,28 +170,6 @@
             this.lbltotal.TabIndex = 14;
             this.lbltotal.Text = "Total Ingredientes";
             // 
-            // IDING
-            // 
-            this.IDING.HeaderText = "IDING";
-            this.IDING.MinimumWidth = 6;
-            this.IDING.Name = "IDING";
-            this.IDING.Visible = false;
-            this.IDING.Width = 125;
-            // 
-            // clmIngrediente
-            // 
-            this.clmIngrediente.HeaderText = "Ingrediente";
-            this.clmIngrediente.MinimumWidth = 6;
-            this.clmIngrediente.Name = "clmIngrediente";
-            this.clmIngrediente.Width = 125;
-            // 
-            // clmCantidad
-            // 
-            this.clmCantidad.HeaderText = "Cantidad";
-            this.clmCantidad.MinimumWidth = 6;
-            this.clmCantidad.Name = "clmCantidad";
-            this.clmCantidad.Width = 125;
-            // 
             // txtcantidad
             // 
             this.txtcantidad.Location = new System.Drawing.Point(375, 211);
@@ -206,6 +185,28 @@
             this.label1.Size = new System.Drawing.Size(61, 16);
             this.label1.TabIndex = 16;
             this.label1.Text = "Cantidad";
+            // 
+            // IDING
+            // 
+            this.IDING.HeaderText = "IDING";
+            this.IDING.MinimumWidth = 6;
+            this.IDING.Name = "IDING";
+            this.IDING.Visible = false;
+            this.IDING.Width = 125;
+            // 
+            // colingredientes
+            // 
+            this.colingredientes.HeaderText = "Ingrediente";
+            this.colingredientes.MinimumWidth = 6;
+            this.colingredientes.Name = "colingredientes";
+            this.colingredientes.Width = 125;
+            // 
+            // clmCantidad
+            // 
+            this.clmCantidad.HeaderText = "Cantidad";
+            this.clmCantidad.MinimumWidth = 6;
+            this.clmCantidad.Name = "clmCantidad";
+            this.clmCantidad.Width = 125;
             // 
             // Form1
             // 
@@ -251,11 +252,11 @@
         private System.Windows.Forms.ComboBox cbocheff;
         private System.Windows.Forms.Label lblnumero;
         private System.Windows.Forms.Label lbltotal;
-        private System.Windows.Forms.DataGridViewTextBoxColumn IDING;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clmIngrediente;
-        private System.Windows.Forms.DataGridViewTextBoxColumn clmCantidad;
         private System.Windows.Forms.TextBox txtcantidad;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn IDING;
+        private System.Windows.Forms.DataGridViewTextBoxColumn colingredientes;
+        private System.Windows.Forms.DataGridViewTextBoxColumn clmCantidad;
     }
 }
 
