@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcialRecetas", "ParcialRecetas\ParcialRecetas.csproj", "{9BCCAF0F-8033-48F4-833E-FC9A8599400C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BCCAF0F-8033-48F4-833E-FC9A8599400C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BCCAF0F-8033-48F4-833E-FC9A8599400C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BCCAF0F-8033-48F4-833E-FC9A8599400C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BCCAF0F-8033-48F4-833E-FC9A8599400C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC7B788D-EFC7-471E-8ECC-47934A2545E4}
+	EndGlobalSection
+EndGlobal
