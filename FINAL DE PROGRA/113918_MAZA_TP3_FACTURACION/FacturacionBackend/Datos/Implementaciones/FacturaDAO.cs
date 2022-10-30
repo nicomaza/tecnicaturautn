@@ -135,6 +135,26 @@ namespace FacturacionBackend.Datos.Implementaciones
             }
             return lista;
 
+        }
+
+        public List<Usuarios> traerusuariospass()
+        {
+            List<Usuarios> lista = new List<Usuarios>();
+            string select = "select * from usuariospass";
+
+            DataTable tabla = HelperDAO.obtenerinstancia().consultacomun(select);
+
+
+            foreach (DataRow fila in tabla.Rows)
+            {
+                
+                string nombre = fila["usuario"].ToString();
+                string clave = fila["clave"].ToString();
+
+                Usuarios Usuarios = new Usuarios(nombre,clave);
+                lista.Add(Usuarios);
+            }
+            return lista;
 
         }
         public DataTable consultasp(string sp)

@@ -46,7 +46,22 @@ namespace FacturacionBackend.Datos
             return tabla;
 
         }
+        public DataTable consultacomun(string select)
+        {
+            SqlCommand comando = new SqlCommand();
+            Conexion.Open();
+            comando.Parameters.Clear();
+            comando.Connection = Conexion;
+            comando.CommandType = CommandType.Text;
+            comando.CommandText = select;
 
+
+            DataTable tabla = new DataTable();
+            tabla.Load(comando.ExecuteReader());
+            Conexion.Close();
+            return tabla;
+
+        }
         public void modificarfactura(string sp, int parametro)
         {
             SqlCommand comando = new SqlCommand();

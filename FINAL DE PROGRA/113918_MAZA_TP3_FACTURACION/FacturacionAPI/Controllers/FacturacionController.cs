@@ -32,7 +32,11 @@ namespace FacturacionAPI.Controllers
         {
             return Ok(servicio.todasfacturas());
         }
-
+        [HttpGet("/usuariospass")]
+        public IActionResult Getusuarios()
+        {
+            return Ok(servicio.usuarios());
+        }
         // POST api/<FacturacionController>
         [HttpPost("/cargarfactura")]
         public IActionResult Post(Factura factura)

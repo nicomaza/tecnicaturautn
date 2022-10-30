@@ -38,10 +38,14 @@
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pbocultar = new System.Windows.Forms.PictureBox();
+            this.pbmostrar = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbocultar)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbmostrar)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -95,7 +99,7 @@
             // 
             this.pictureBox2.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(365, 346);
+            this.pictureBox2.Location = new System.Drawing.Point(382, 346);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(187, 62);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -106,9 +110,9 @@
             // pictureBox3
             // 
             this.pictureBox3.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox3.Image")));
-            this.pictureBox3.Location = new System.Drawing.Point(548, 12);
+            this.pictureBox3.Location = new System.Drawing.Point(575, 12);
             this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(52, 48);
+            this.pictureBox3.Size = new System.Drawing.Size(41, 35);
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 8;
             this.pictureBox3.TabStop = false;
@@ -134,12 +138,36 @@
             this.pictureBox1.TabIndex = 0;
             this.pictureBox1.TabStop = false;
             // 
+            // pbocultar
+            // 
+            this.pbocultar.Image = ((System.Drawing.Image)(resources.GetObject("pbocultar.Image")));
+            this.pbocultar.Location = new System.Drawing.Point(558, 274);
+            this.pbocultar.Name = "pbocultar";
+            this.pbocultar.Size = new System.Drawing.Size(25, 27);
+            this.pbocultar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbocultar.TabIndex = 10;
+            this.pbocultar.TabStop = false;
+            this.pbocultar.Click += new System.EventHandler(this.pictureBox4_Click);
+            // 
+            // pbmostrar
+            // 
+            this.pbmostrar.Image = ((System.Drawing.Image)(resources.GetObject("pbmostrar.Image")));
+            this.pbmostrar.Location = new System.Drawing.Point(558, 274);
+            this.pbmostrar.Name = "pbmostrar";
+            this.pbmostrar.Size = new System.Drawing.Size(25, 27);
+            this.pbmostrar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pbmostrar.TabIndex = 11;
+            this.pbmostrar.TabStop = false;
+            this.pbmostrar.Click += new System.EventHandler(this.pictureBox5_Click);
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Maroon;
-            this.ClientSize = new System.Drawing.Size(611, 450);
+            this.ClientSize = new System.Drawing.Size(628, 450);
+            this.Controls.Add(this.pbmostrar);
+            this.Controls.Add(this.pbocultar);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pictureBox3);
             this.Controls.Add(this.pictureBox2);
@@ -153,10 +181,13 @@
             this.Opacity = 0.95D;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Login";
+            this.Load += new System.EventHandler(this.Login_Load);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbocultar)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pbmostrar)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -172,5 +203,7 @@
         private PictureBox pictureBox3;
         private Panel panel1;
         private PictureBox pictureBox1;
+        private PictureBox pbocultar;
+        private PictureBox pbmostrar;
     }
 }

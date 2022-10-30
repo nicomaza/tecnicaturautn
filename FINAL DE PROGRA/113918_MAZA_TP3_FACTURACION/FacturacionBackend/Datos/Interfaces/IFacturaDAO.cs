@@ -16,5 +16,7 @@ namespace FacturacionBackend.Datos.Interfaces
         public List<ConsultaTodas> traertodasfacturas();
 
         public DataTable consultasp(string sp);
+        public List<Usuarios> traerusuariospass();
+
     }
 }

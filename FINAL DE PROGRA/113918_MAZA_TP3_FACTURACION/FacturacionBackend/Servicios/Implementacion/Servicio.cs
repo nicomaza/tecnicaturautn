@@ -39,5 +39,11 @@ namespace FacturacionBackend.Servicios.Implementacion
         {
             return facturaDAO.traertodasfacturas();
         }
+
+        public List<Usuarios> usuarios()
+        {
+            return facturaDAO.traerusuariospass();
+            
+        }
     }
 }
