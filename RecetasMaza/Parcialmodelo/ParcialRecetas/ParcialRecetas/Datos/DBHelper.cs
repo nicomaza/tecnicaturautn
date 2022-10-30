@@ -48,12 +48,17 @@ namespace ParcialRecetas.Datos
             SqlCommand comando = new SqlCommand();
             cnn.Open();
             comando.Connection = cnn;
+            comando.CommandText = nombresp;
             comando.CommandType = CommandType.StoredProcedure;
-            foreach (parametros p in valores)
+            if(valores != null)
             {
-                comando.Parameters.AddWithValue(p.Clave, p.Valor);
+                foreach (parametros p in valores)
+                {
+                    comando.Parameters.AddWithValue(p.Clave, p.Valor);
+                }
+                tabla.Load(comando.ExecuteReader());
             }
-            tabla.Load(comando.ExecuteReader());
+
             cnn.Close();
             return tabla;
         }

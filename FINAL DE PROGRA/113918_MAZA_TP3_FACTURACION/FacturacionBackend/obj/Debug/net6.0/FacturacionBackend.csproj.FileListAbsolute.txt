@@ -1,0 +1,12 @@
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\bin\Debug\net6.0\FacturacionBackend.deps.json
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\bin\Debug\net6.0\FacturacionBackend.dll
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\bin\Debug\net6.0\FacturacionBackend.pdb
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\obj\Debug\net6.0\FacturacionBackend.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\obj\Debug\net6.0\FacturacionBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\obj\Debug\net6.0\FacturacionBackend.AssemblyInfoInputs.cache
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\obj\Debug\net6.0\FacturacionBackend.AssemblyInfo.cs
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\obj\Debug\net6.0\FacturacionBackend.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\obj\Debug\net6.0\FacturacionBackend.dll
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\obj\Debug\net6.0\refint\FacturacionBackend.dll
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\obj\Debug\net6.0\FacturacionBackend.pdb
+C:\Users\nicol\Desktop\FINAL DE PROGRA\113918_MAZA_TP3_FACTURACION\FacturacionBackend\obj\Debug\net6.0\ref\FacturacionBackend.dll

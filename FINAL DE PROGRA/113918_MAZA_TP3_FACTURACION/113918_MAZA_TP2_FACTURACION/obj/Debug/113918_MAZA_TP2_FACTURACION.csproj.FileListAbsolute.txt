@@ -1,0 +1,277 @@
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.exe.config
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.exe
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.pdb
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.Form1.resources
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.Properties.Resources.resources
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.exe
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\113918_MAZA_TP2_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.pdb
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.editar.resources
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.Form1.resources
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.inicio.resources
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.Properties.Resources.resources
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.exe
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.pdb
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.exe.config
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.exe
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.pdb
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\EnvDTE.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\stdole.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.CopyComplete
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.exe.config
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.exe
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.pdb
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\EnvDTE.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\stdole.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.editar.resources
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.Form1.resources
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.inicio.resources
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.Properties.Resources.resources
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.CopyComplete
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.exe
+C:\Users\nicol\Desktop\ProyectosFacu\trabajo2\ENTREGA4\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.pdb
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.editar.resources
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.Form1.resources
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.inicio.resources
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.Properties.Resources.resources
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.exe
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.pdb
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.exe.config
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.exe
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.pdb
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\EnvDTE.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\stdole.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.CopyComplete
+C:\Users\nicol\Desktop\Repositorio\tecnicaturautn\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.reportecliente.resources
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.exe.config
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.exe
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\113918_MAZA_TP2_FACTURACION.pdb
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\EnvDTE.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\stdole.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.editar.resources
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.Form1.resources
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.inicio.resources
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.Properties.Resources.resources
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\_113918_MAZA_TP2_FACTURACION.reportecliente.resources
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.csproj.CopyComplete
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.exe
+C:\Users\nicol\Desktop\2docuatrimestre\mesa de trabajo\113918_MAZANUEVO\113918_MAZA_TP3_FACTURACION\113918_MAZA_TP2_FACTURACION\obj\Debug\113918_MAZA_TP2_FACTURACION.pdb
